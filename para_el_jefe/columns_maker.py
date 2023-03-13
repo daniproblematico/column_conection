@@ -1,9 +1,7 @@
 import json
 import numpy as np
 
-#prodes_data = open("project.prodes", "r")
-with open("midas.geom", "r") as f:
-    building_data = json.load(f)
+# prodes_data = open("project.prodes", "r")
 
 # Auxiliar functions
 def beam_finder(element_id, levels):
@@ -48,6 +46,23 @@ def column_verify(item, columns, levels_info):
 
 
 # Essential functions
+
+
+def read_file(file):
+    """Reads the file and returns the information as a dictionary
+
+    Args:
+        file (geom): file path
+
+    Returns:
+        dict: dictionary with all the information of the building
+    """
+    with open(file, "r") as f:
+        building_data = json.load(f)
+
+    return building_data
+
+
 def create_node(id, global_info_nodes, story_heigth_acum, new_id):
     """Node information constructor
 
@@ -182,9 +197,9 @@ def extract_levels(data, initial_heigth):
     Returns:
         levels: dictionary with the information organized by level
     """
-    #Dictionary that will contain all the information of the building
+    # Dictionary that will contain all the information of the building
     levels = {}
-    #Node arbitrary identificator
+    # Node arbitrary identificator
     nodes_id = 0
     # For each level, the information will be storaged
     for story in reversed(data["pisos"]):
@@ -247,7 +262,7 @@ def extract_levels(data, initial_heigth):
     return levels
 
 
-def columns_assembler(elements,tolerance):
+def columns_assembler(elements, tolerance):
     """find the vertical elements that are connected and assign them to a column with arbitrary name
 
     Args:
@@ -290,7 +305,18 @@ def columns_assembler(elements,tolerance):
     return columns
 
 
-#prodes functions
+def export_data(name, data):
+    """export data to a json file
+
+    Args:
+        name (string): name of the file
+        data (dict): data to be exported
+    """
+    with open(name, "w") as fp:
+        json.dump(data, fp)
+
+
+# prodes functions
 def element_finder(element, prodes_data, element_type):
     """this function will find what actual element this element came from using prodes file infor
 
@@ -317,6 +343,11 @@ def element_finder(element, prodes_data, element_type):
     return storage
 
 
+###############
+# Main script #
+
+building_data = read_file("midas.geom")
+
 levels = extract_levels(building_data, 0)
 
 vertical_elements = {}
@@ -336,7 +367,7 @@ for n in levels:
         else:
             v_element_node = levels[n]["nodes"][levels[n]["info_cols"][i]["node_j"]]
             connected_elements = {}
-            vertical_elements[i+n] = dict(
+            vertical_elements[i + n] = dict(
                 connected_elements=connected_elements,
                 node_t=v_element_node,
                 level_id=n,
@@ -387,18 +418,16 @@ for n in levels:
                 )
 
 
-building_columns = columns_assembler(vertical_elements,0.001)
+building_columns = columns_assembler(vertical_elements, 0.001)
 
 # This is the way to verify if the columns are correct
 # Element
 item = "B12355"
 
-#elements 
+# elements
 print(column_verify(item, building_columns, levels))
 
 # guardar building_columns en un archivo json
-#with open("building_columns_midas.json", "w") as fp:
-#    json.dump(building_columns, fp)
 
-
+export_data("building_columns_midas.json", building_columns)
 
