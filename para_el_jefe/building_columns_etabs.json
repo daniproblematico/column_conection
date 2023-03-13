@@ -1,0 +1,1909 @@
+{
+    "0": {
+        "C131": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "131",
+                "x_coord": 57.780570000000004,
+                "y_coord": 38.135,
+                "z_coord": 2.85,
+                "new_id": "0"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13102_P01": {
+            "connected_elements": {
+                "B9": {
+                    "element_id": "B9",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B14": {
+                    "element_id": "B14",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.1700000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "131",
+                "x_coord": 57.780570000000004,
+                "y_coord": 38.135,
+                "z_coord": 5.85,
+                "new_id": "56"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "1": {
+        "C132": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "132",
+                "x_coord": 57.780570000000004,
+                "y_coord": 31.305,
+                "z_coord": 2.85,
+                "new_id": "1"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13202_P01": {
+            "connected_elements": {
+                "B4": {
+                    "element_id": "B4",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B9": {
+                    "element_id": "B9",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B17": {
+                    "element_id": "B17",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.1700000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "132",
+                "x_coord": 57.780570000000004,
+                "y_coord": 31.305,
+                "z_coord": 5.85,
+                "new_id": "57"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "2": {
+        "C133": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "133",
+                "x_coord": 57.780570000000004,
+                "y_coord": 24.605,
+                "z_coord": 2.85,
+                "new_id": "2"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13302_P01": {
+            "connected_elements": {
+                "B4": {
+                    "element_id": "B4",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B87": {
+                    "element_id": "B87",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.1700000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "133",
+                "x_coord": 57.780570000000004,
+                "y_coord": 24.605,
+                "z_coord": 5.85,
+                "new_id": "58"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "3": {
+        "C137": {
+            "connected_elements": {
+                "B523": {
+                    "element_id": "B523",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B37": {
+                    "element_id": "B37",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "137",
+                "x_coord": 39.765,
+                "y_coord": 43.135,
+                "z_coord": 2.85,
+                "new_id": "3"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13702_P01": {
+            "connected_elements": {
+                "B644": {
+                    "element_id": "B644",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B523": {
+                    "element_id": "B523",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B657": {
+                    "element_id": "B657",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B37": {
+                    "element_id": "B37",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "137",
+                "x_coord": 39.765,
+                "y_coord": 43.135,
+                "z_coord": 5.85,
+                "new_id": "62"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "4": {
+        "C138": {
+            "connected_elements": {
+                "B517": {
+                    "element_id": "B517",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B38": {
+                    "element_id": "B38",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                },
+                "B39": {
+                    "element_id": "B39",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "138",
+                "x_coord": 45.065,
+                "y_coord": 43.135,
+                "z_coord": 2.85,
+                "new_id": "4"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13802_P01": {
+            "connected_elements": {
+                "B648": {
+                    "element_id": "B648",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B38": {
+                    "element_id": "B38",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                },
+                "B52": {
+                    "element_id": "B52",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                },
+                "B55": {
+                    "element_id": "B55",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.25,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "138",
+                "x_coord": 45.065,
+                "y_coord": 43.135,
+                "z_coord": 5.85,
+                "new_id": "63"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "5": {
+        "C139": {
+            "connected_elements": {
+                "B514": {
+                    "element_id": "B514",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "01_PBAJA"
+                },
+                "B520": {
+                    "element_id": "B520",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B41": {
+                    "element_id": "B41",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1700000000000017,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "139",
+                "x_coord": 49.935,
+                "y_coord": 43.135,
+                "z_coord": 2.85,
+                "new_id": "5"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13902_P01": {
+            "connected_elements": {
+                "B514": {
+                    "element_id": "B514",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "02_P01"
+                },
+                "B652": {
+                    "element_id": "B652",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B53": {
+                    "element_id": "B53",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.325000000000003,
+                    "level_id": "02_P01"
+                },
+                "B58": {
+                    "element_id": "B58",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.25,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "139",
+                "x_coord": 49.935,
+                "y_coord": 43.135,
+                "z_coord": 5.85,
+                "new_id": "64"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "6": {
+        "C140": {
+            "connected_elements": {
+                "B522": {
+                    "element_id": "B522",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B523": {
+                    "element_id": "B523",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B32": {
+                    "element_id": "B32",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "140",
+                "x_coord": 39.765,
+                "y_coord": 38.135,
+                "z_coord": 2.85,
+                "new_id": "6"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14002_P01": {
+            "connected_elements": {
+                "B643": {
+                    "element_id": "B643",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B522": {
+                    "element_id": "B522",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B523": {
+                    "element_id": "B523",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B32": {
+                    "element_id": "B32",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "140",
+                "x_coord": 39.765,
+                "y_coord": 38.135,
+                "z_coord": 5.85,
+                "new_id": "65"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "7": {
+        "C141": {
+            "connected_elements": {
+                "B516": {
+                    "element_id": "B516",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B517": {
+                    "element_id": "B517",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B33": {
+                    "element_id": "B33",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                },
+                "B34": {
+                    "element_id": "B34",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "141",
+                "x_coord": 45.065,
+                "y_coord": 38.135,
+                "z_coord": 2.85,
+                "new_id": "7"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14102_P01": {
+            "connected_elements": {
+                "B516": {
+                    "element_id": "B516",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B33": {
+                    "element_id": "B33",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                },
+                "B50": {
+                    "element_id": "B50",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                },
+                "B54": {
+                    "element_id": "B54",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.75,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "141",
+                "x_coord": 45.065,
+                "y_coord": 38.135,
+                "z_coord": 5.85,
+                "new_id": "66"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "8": {
+        "C142": {
+            "connected_elements": {
+                "B511": {
+                    "element_id": "B511",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "01_PBAJA"
+                },
+                "B519": {
+                    "element_id": "B519",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B520": {
+                    "element_id": "B520",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "01_PBAJA"
+                },
+                "B36": {
+                    "element_id": "B36",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1700000000000017,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "142",
+                "x_coord": 49.935,
+                "y_coord": 38.135,
+                "z_coord": 2.85,
+                "new_id": "8"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14202_P01": {
+            "connected_elements": {
+                "B519": {
+                    "element_id": "B519",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B511": {
+                    "element_id": "B511",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "02_P01"
+                },
+                "B36": {
+                    "element_id": "B36",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1700000000000017,
+                    "level_id": "02_P01"
+                },
+                "B57": {
+                    "element_id": "B57",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.75,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "142",
+                "x_coord": 49.935,
+                "y_coord": 38.135,
+                "z_coord": 5.85,
+                "new_id": "67"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "9": {
+        "C143": {
+            "connected_elements": {
+                "B521": {
+                    "element_id": "B521",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.2254199999999962,
+                    "level_id": "01_PBAJA"
+                },
+                "B522": {
+                    "element_id": "B522",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B28": {
+                    "element_id": "B28",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "143",
+                "x_coord": 39.765,
+                "y_coord": 31.305,
+                "z_coord": 2.85,
+                "new_id": "9"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14302_P01": {
+            "connected_elements": {
+                "B642": {
+                    "element_id": "B642",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B656": {
+                    "element_id": "B656",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B522": {
+                    "element_id": "B522",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B28": {
+                    "element_id": "B28",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "143",
+                "x_coord": 39.765,
+                "y_coord": 31.305,
+                "z_coord": 5.85,
+                "new_id": "68"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "10": {
+        "C144": {
+            "connected_elements": {
+                "B516": {
+                    "element_id": "B516",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B29": {
+                    "element_id": "B29",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "01_PBAJA"
+                },
+                "B30": {
+                    "element_id": "B30",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                },
+                "B43": {
+                    "element_id": "B43",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.2254199999999962,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "144",
+                "x_coord": 45.065,
+                "y_coord": 31.305,
+                "z_coord": 2.85,
+                "new_id": "10"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14402_P01": {
+            "connected_elements": {
+                "B515": {
+                    "element_id": "B515",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B516": {
+                    "element_id": "B516",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B29": {
+                    "element_id": "B29",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                },
+                "B48": {
+                    "element_id": "B48",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "144",
+                "x_coord": 45.065,
+                "y_coord": 31.305,
+                "z_coord": 5.85,
+                "new_id": "69"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "11": {
+        "C145": {
+            "connected_elements": {
+                "B508": {
+                    "element_id": "B508",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "01_PBAJA"
+                },
+                "B518": {
+                    "element_id": "B518",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "01_PBAJA"
+                },
+                "B519": {
+                    "element_id": "B519",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "01_PBAJA"
+                },
+                "B31": {
+                    "element_id": "B31",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "145",
+                "x_coord": 49.935,
+                "y_coord": 31.305,
+                "z_coord": 2.85,
+                "new_id": "11"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14502_P01": {
+            "connected_elements": {
+                "B518": {
+                    "element_id": "B518",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B519": {
+                    "element_id": "B519",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.829999999999998,
+                    "level_id": "02_P01"
+                },
+                "B508": {
+                    "element_id": "B508",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "02_P01"
+                },
+                "B49": {
+                    "element_id": "B49",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.325000000000003,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "145",
+                "x_coord": 49.935,
+                "y_coord": 31.305,
+                "z_coord": 5.85,
+                "new_id": "70"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "12": {
+        "C146": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "146",
+                "x_coord": 39.765,
+                "y_coord": 24.605,
+                "z_coord": 2.85,
+                "new_id": "12"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14602_P01": {
+            "connected_elements": {
+                "B640": {
+                    "element_id": "B640",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B655": {
+                    "element_id": "B655",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B656": {
+                    "element_id": "B656",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B44": {
+                    "element_id": "B44",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "146",
+                "x_coord": 39.765,
+                "y_coord": 24.605,
+                "z_coord": 5.85,
+                "new_id": "71"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "13": {
+        "C147": {
+            "connected_elements": {
+                "B22": {
+                    "element_id": "B22",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                },
+                "B42": {
+                    "element_id": "B42",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.474580000000003,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "147",
+                "x_coord": 45.065,
+                "y_coord": 24.605,
+                "z_coord": 2.85,
+                "new_id": "13"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14702_P01": {
+            "connected_elements": {
+                "B647": {
+                    "element_id": "B647",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B515": {
+                    "element_id": "B515",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B45": {
+                    "element_id": "B45",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                },
+                "B46": {
+                    "element_id": "B46",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "147",
+                "x_coord": 45.065,
+                "y_coord": 24.605,
+                "z_coord": 5.85,
+                "new_id": "72"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "14": {
+        "C148": {
+            "connected_elements": {
+                "B518": {
+                    "element_id": "B518",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "01_PBAJA"
+                },
+                "B23": {
+                    "element_id": "B23",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.4350000000000023,
+                    "level_id": "01_PBAJA"
+                },
+                "B24": {
+                    "element_id": "B24",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.7650000000000006,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "148",
+                "x_coord": 49.935,
+                "y_coord": 24.605,
+                "z_coord": 2.85,
+                "new_id": "14"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14802_P01": {
+            "connected_elements": {
+                "B651": {
+                    "element_id": "B651",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B518": {
+                    "element_id": "B518",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 6.699999999999999,
+                    "level_id": "02_P01"
+                },
+                "B47": {
+                    "element_id": "B47",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.325000000000003,
+                    "level_id": "02_P01"
+                },
+                "B81": {
+                    "element_id": "B81",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.3200000000000003,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "148",
+                "x_coord": 49.935,
+                "y_coord": 24.605,
+                "z_coord": 5.85,
+                "new_id": "73"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "15": {
+        "C149": {
+            "connected_elements": {
+                "B155": {
+                    "element_id": "B155",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.7999999999999972,
+                    "level_id": "01_PBAJA"
+                },
+                "B525": {
+                    "element_id": "B525",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "149",
+                "x_coord": 39.765,
+                "y_coord": 16.94,
+                "z_coord": 2.85,
+                "new_id": "15"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C14902_P01": {
+            "connected_elements": {
+                "B525": {
+                    "element_id": "B525",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B655": {
+                    "element_id": "B655",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B659": {
+                    "element_id": "B659",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B59": {
+                    "element_id": "B59",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "149",
+                "x_coord": 39.765,
+                "y_coord": 16.94,
+                "z_coord": 5.85,
+                "new_id": "74"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "16": {
+        "C150": {
+            "connected_elements": {
+                "B151": {
+                    "element_id": "B151",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1499999999999986,
+                    "level_id": "01_PBAJA"
+                },
+                "B529": {
+                    "element_id": "B529",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.8700000000000045,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "150",
+                "x_coord": 45.065,
+                "y_coord": 16.94,
+                "z_coord": 2.85,
+                "new_id": "16"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15002_P01": {
+            "connected_elements": {
+                "B646": {
+                    "element_id": "B646",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B647": {
+                    "element_id": "B647",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B60": {
+                    "element_id": "B60",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                },
+                "B61": {
+                    "element_id": "B61",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "150",
+                "x_coord": 45.065,
+                "y_coord": 16.94,
+                "z_coord": 5.85,
+                "new_id": "75"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "17": {
+        "C151": {
+            "connected_elements": {
+                "B527": {
+                    "element_id": "B527",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "01_PBAJA"
+                },
+                "B528": {
+                    "element_id": "B528",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1499999999999986,
+                    "level_id": "01_PBAJA"
+                },
+                "B529": {
+                    "element_id": "B529",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.8700000000000045,
+                    "level_id": "01_PBAJA"
+                },
+                "B530": {
+                    "element_id": "B530",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.8999999999999986,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "151",
+                "x_coord": 49.935,
+                "y_coord": 16.94,
+                "z_coord": 2.85,
+                "new_id": "17"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15102_P01": {
+            "connected_elements": {
+                "B527": {
+                    "element_id": "B527",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B651": {
+                    "element_id": "B651",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B62": {
+                    "element_id": "B62",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.325000000000003,
+                    "level_id": "02_P01"
+                },
+                "B63": {
+                    "element_id": "B63",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.3200000000000003,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "151",
+                "x_coord": 49.935,
+                "y_coord": 16.94,
+                "z_coord": 5.85,
+                "new_id": "76"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "18": {
+        "C152": {
+            "connected_elements": {
+                "B524": {
+                    "element_id": "B524",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.8000000000000007,
+                    "level_id": "01_PBAJA"
+                },
+                "B525": {
+                    "element_id": "B525",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "01_PBAJA"
+                },
+                "B531": {
+                    "element_id": "B531",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.7999999999999972,
+                    "level_id": "01_PBAJA"
+                },
+                "B532": {
+                    "element_id": "B532",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 10.170000000000002,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "152",
+                "x_coord": 39.765,
+                "y_coord": 12.41,
+                "z_coord": 2.85,
+                "new_id": "18"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15202_P01": {
+            "connected_elements": {
+                "B654": {
+                    "element_id": "B654",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.9299999999999997,
+                    "level_id": "02_P01"
+                },
+                "B525": {
+                    "element_id": "B525",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B663": {
+                    "element_id": "B663",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B68": {
+                    "element_id": "B68",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.6499999999999986,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "152",
+                "x_coord": 39.765,
+                "y_coord": 12.41,
+                "z_coord": 5.85,
+                "new_id": "77"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "19": {
+        "C153": {
+            "connected_elements": {
+                "B526": {
+                    "element_id": "B526",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.8000000000000007,
+                    "level_id": "01_PBAJA"
+                },
+                "B527": {
+                    "element_id": "B527",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "01_PBAJA"
+                },
+                "B532": {
+                    "element_id": "B532",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 10.170000000000002,
+                    "level_id": "01_PBAJA"
+                },
+                "B533": {
+                    "element_id": "B533",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.8999999999999986,
+                    "level_id": "01_PBAJA"
+                }
+            },
+            "node_t": {
+                "prev_id": "153",
+                "x_coord": 49.935,
+                "y_coord": 12.41,
+                "z_coord": 2.85,
+                "new_id": "19"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15302_P01": {
+            "connected_elements": {
+                "B650": {
+                    "element_id": "B650",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.9299999999999997,
+                    "level_id": "02_P01"
+                },
+                "B527": {
+                    "element_id": "B527",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B71": {
+                    "element_id": "B71",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.325000000000003,
+                    "level_id": "02_P01"
+                },
+                "B72": {
+                    "element_id": "B72",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.3200000000000003,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "153",
+                "x_coord": 49.935,
+                "y_coord": 12.41,
+                "z_coord": 5.85,
+                "new_id": "78"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "20": {
+        "C154": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "154",
+                "x_coord": 54.910000000000004,
+                "y_coord": 12.41,
+                "z_coord": 2.85,
+                "new_id": "20"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15402_P01": {
+            "connected_elements": {
+                "B667": {
+                    "element_id": "B667",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.700569999999999,
+                    "level_id": "02_P01"
+                },
+                "B668": {
+                    "element_id": "B668",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.9299999999999997,
+                    "level_id": "02_P01"
+                },
+                "B669": {
+                    "element_id": "B669",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B74": {
+                    "element_id": "B74",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "154",
+                "x_coord": 54.910000000000004,
+                "y_coord": 12.41,
+                "z_coord": 5.85,
+                "new_id": "79"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "21": {
+        "C155": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "155",
+                "x_coord": 54.910000000000004,
+                "y_coord": 16.94,
+                "z_coord": 2.85,
+                "new_id": "21"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C15502_P01": {
+            "connected_elements": {
+                "B662": {
+                    "element_id": "B662",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.700569999999999,
+                    "level_id": "02_P01"
+                },
+                "B669": {
+                    "element_id": "B669",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 4.530000000000001,
+                    "level_id": "02_P01"
+                },
+                "B670": {
+                    "element_id": "B670",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 7.664999999999999,
+                    "level_id": "02_P01"
+                },
+                "B67": {
+                    "element_id": "B67",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "155",
+                "x_coord": 54.910000000000004,
+                "y_coord": 16.94,
+                "z_coord": 5.85,
+                "new_id": "80"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "22": {
+        "C134": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "134",
+                "x_coord": 39.765,
+                "y_coord": 48.135,
+                "z_coord": 2.85,
+                "new_id": "22"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13402_P01": {
+            "connected_elements": {
+                "B657": {
+                    "element_id": "B657",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B658": {
+                    "element_id": "B658",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.6619700000000037,
+                    "level_id": "02_P01"
+                },
+                "B671": {
+                    "element_id": "B671",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.1300000000000026,
+                    "level_id": "02_P01"
+                },
+                "B75": {
+                    "element_id": "B75",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.5750000000000028,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "134",
+                "x_coord": 39.765,
+                "y_coord": 48.135,
+                "z_coord": 5.85,
+                "new_id": "59"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "23": {
+        "C135": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "135",
+                "x_coord": 45.065,
+                "y_coord": 48.135,
+                "z_coord": 2.85,
+                "new_id": "23"
+            },
+            "level_id": "01_PBAJA"
+        },
+        "C13502_P01": {
+            "connected_elements": {
+                "B648": {
+                    "element_id": "B648",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 4.71238898038469,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 5.0,
+                    "level_id": "02_P01"
+                },
+                "B649": {
+                    "element_id": "B649",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 1.5707963267948966,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 1.6619700000000037,
+                    "level_id": "02_P01"
+                },
+                "B78": {
+                    "element_id": "B78",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 3.141592653589793,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 0.7849999999999966,
+                    "level_id": "02_P01"
+                },
+                "B79": {
+                    "element_id": "B79",
+                    "beam_id": "this info will come from the prodes file",
+                    "orientation": 0.0,
+                    "area": "b*h, this info will come from a prodes file",
+                    "reinforcement": "this will come from a prodes file",
+                    "length": 2.5450000000000017,
+                    "level_id": "02_P01"
+                }
+            },
+            "node_t": {
+                "prev_id": "135",
+                "x_coord": 45.065,
+                "y_coord": 48.135,
+                "z_coord": 5.85,
+                "new_id": "60"
+            },
+            "level_id": "02_P01"
+        }
+    },
+    "24": {
+        "C160": {
+            "connected_elements": {},
+            "node_t": {
+                "prev_id": "264",
+                "x_coord": 49.965,
+                "y_coord": 48.11,
+                "z_coord": 2.85,
+                "new_id": "24"
+            },
+            "level_id": "01_PBAJA"
+        }
+    }
+}
